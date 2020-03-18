@@ -1,6 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+You need MongoDB URL configured in server/veggies.js
+
+
+## To run the api service 
+### `yarn run server`
+
+## Available Scripts for the React app
 
 In the project directory, you can run:
 
